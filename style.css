@@ -60,9 +60,8 @@
    #cover {
     /* height: 100vh; */
     
-    background: url(5.png);
-    background-position: 0 0;
-    animation: animated-pattern 15s linear infinite;
+    background-color:black;
+   
   }
   
   @keyframes animated-pattern {
@@ -156,10 +155,10 @@
     text-decoration: none;
   }
   .foot{
-    background-color: #dee8ee;
+    background-color: white;
 
-   background-image: linear-gradient(to bottom, #dee8ee, #f7f7ef); 
-   color:skyblue;
+    
+   
   }
   .colours{
     background-image: linear-gradient(to bottom, #dee8ee, #f7f7ef); 
