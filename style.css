@@ -161,11 +161,12 @@
    
   }
   .colours{
+      border:none;
    background-color:transparent !important; 
     color:skyblue;
     padding-left: 30px !important;
     padding-right: 30px !important;
-    box-shadow: 2px 2px 4px black;
+   
   }
   form{
     background-color: rgba(0,0,0,0.8);
